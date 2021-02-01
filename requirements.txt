@@ -1,0 +1,9 @@
+cython==0.29.21
+numpy==1.19.5
+pandas
+geopandas==0.8.2
+streamlit==0.75.0
+psycopg2==2.8.6
+SQLAlchemy
+folium
+streamlit-folium
